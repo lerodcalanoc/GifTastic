@@ -1,5 +1,5 @@
 # GifTastic
-[Click here to launch the app.](https://lerodcalanoc.github.io/GifTastic/)
+["Click here to launch the app"](https://lerodcalanoc.github.io/GifTastic/)
 
 ![](https://media.giphy.com/media/xTiN0uId37jNZCMLSM/giphy.gif)
 
